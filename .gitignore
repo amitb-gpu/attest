@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+*.log
+ledger.json
+*.bat
+*.key
+.env
